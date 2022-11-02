@@ -1,0 +1,30 @@
+*
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    font-family: 'Chakra Petch', sans-serif;
+    /*background-color:darkslateblue;
+    /*color: rgb(210, 210, 210)*/
+}
+
+section
+{
+    height: 100vh;
+}
+
+i
+{
+    color: #fff;
+    margin-right: .5rem;
+    font-size: 1.5rem;
+}
+.container
+{
+    padding-left: 6%;
+    padding-right: 6%;
+}
